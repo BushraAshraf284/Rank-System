@@ -1,0 +1,63 @@
+{
+    "rankList": [
+        {
+            "unlockedObjects": [],
+            "requiredXP": 0
+        },
+        {
+            "unlockedObjects": [
+                {
+                    "ItemName": "Grass",
+                    "id": 0
+                },
+                {
+                    "ItemName": "Cloud",
+                    "id": 0
+                },
+                {
+                    "ItemName": "Coin",
+                    "id": 0
+                }
+            ],
+            "requiredXP": 0
+        },
+        {
+            "unlockedObjects": [
+                {
+                    "ItemName": "GrassMid",
+                    "id": 0
+                },
+                {
+                    "ItemName": "Grass",
+                    "id": 0
+                },
+                {
+                    "ItemName": "GrassRight",
+                    "id": 0
+                }
+            ],
+            "requiredXP": 0
+        },
+        {
+            "unlockedObjects": [
+                {
+                    "ItemName": "Chest",
+                    "id": 0
+                },
+                {
+                    "ItemName": "Cloud",
+                    "id": 0
+                },
+                {
+                    "ItemName": "Coin",
+                    "id": 0
+                }
+            ],
+            "requiredXP": 0
+        },
+        {
+            "unlockedObjects": [],
+            "requiredXP": 0
+        }
+    ]
+}

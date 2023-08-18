@@ -1,0 +1,6 @@
+{
+    "EditorFolderRoot": "Assets/StarterAssets/",
+    "PackagesToAdd": [
+        "com.unity.cinemachine"
+    ]
+}
